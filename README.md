@@ -43,15 +43,18 @@ The repository is organized into multiple folders, each containing exercises rel
    - Practice writing SQL queries to manipulate and extract data;
    - Explore different scenarious sch as data aggregation, foreign key relationships, and database integrity.
 
-*Technologies Used*
-	•	MySQL Database
-	•	SQL (Structured Query Language)
-	•	Relational Database Management Systems (RDBMS)
+# Technologies Used
 
-*Contributions*
+• MySQL Database
+
+• SQL - Structured Query Language
+
+• Relational Database Management Systems - RDBMS
+
+# Contributions
 
 Feel free to contribute by opening pull requests or submitting issues related to database structures, queries, or additional exercises.
 
-*License*
+# License
 
 This project is licensed under the MIT License.
